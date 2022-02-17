@@ -1,12 +1,14 @@
 
 ## DESCRIPTION:
-- A modern UI with 360 rotate picture.
+- A modern UI landing page with 360 rotate picture.
 
 ## TECH STACKS:
-- HRML + CSS
+- HTML + CSS
+- LIbrary : SwiperJS.
 
 ## PROGRESS:
-- 1%;
+- DONE: 100%;
+- Mobile friendly.
 
 
 ## View other projects:
@@ -16,4 +18,4 @@
 
 
 ## IMAGE:
-![Screenshot of the App](./screenshots/50000000000000000000)
+![Screenshot of the App](./screenshots/css-10-css-360-sm.jpg)
