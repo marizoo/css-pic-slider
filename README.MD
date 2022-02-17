@@ -4,7 +4,7 @@
 
 ## TECH STACKS:
 - HTML + CSS
-- LIbrary : SwiperJS.
+- Library : SwiperJS.
 
 ## PROGRESS:
 - DONE: 100%;
